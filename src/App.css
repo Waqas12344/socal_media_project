@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.Books {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+article {
+  width: 30%;
+}
